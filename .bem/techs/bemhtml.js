@@ -3,8 +3,9 @@ var BEM = require('bem'),
     PATH = require('path'),
     compat = require('bemhtml-compat');
 
+exports.API_VER = 2;
+
 exports.techMixin = {
-    API_VER:2,
 
     getBuildSuffixesMap: function() {
         return {
