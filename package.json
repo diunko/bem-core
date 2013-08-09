@@ -20,7 +20,7 @@
     "bem-environ": "~1.2.0"
   },
   "devDependencies": {
-    "bem": "0.6.x",
+    "bem": "git://github.com/diunko/bem-tools.git#68a19fea4f60762b791fd1a0a1186388388022da",
     "mocha": "~1.9.0",
     "jshint": "2.1.8",
     "jshint-groups": "0.5.1",
